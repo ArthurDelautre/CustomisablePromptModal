@@ -1,4 +1,4 @@
-<div id="customPrompt" class="modal">
+<div id="customPrompt" class="modal prompt-animation">
     <div class="modal-content">
         <p id="titlePromptMessage"></p>
         <p id="subtitlePromptMessage"></p>
